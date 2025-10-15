@@ -1,0 +1,3 @@
+path: C:\Users\Niloy\Downloads\object detection\codes\semi_supervised_output\exports
+train: calibration/images
+val: calibration/images

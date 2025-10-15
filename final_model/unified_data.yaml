@@ -1,0 +1,14 @@
+names:
+  0: Chair
+  1: Desk
+  2: Door
+  3: Elevator
+  4: Low Obstacle
+  5: Wall
+  6: person
+  7: stairs
+  8: unknown obstacle
+nc: 9
+path: C:\Users\Niloy\Downloads\object detection\codes\final_model\unified_dataset
+train: train/images
+val: val/images

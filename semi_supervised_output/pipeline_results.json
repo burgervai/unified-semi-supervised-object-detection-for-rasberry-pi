@@ -1,0 +1,22 @@
+{
+    "phase1": {
+        "unified_classes": {
+            "Chair": 0,
+            "Desk": 1,
+            "Door": 2,
+            "Elevator": 3,
+            "Low Obstacle": 4,
+            "Wall": 5,
+            "person": 6,
+            "stairs": 7,
+            "unknown obstacle": 8
+        },
+        "yaml_path": "semi_supervised_output\\prepared_data\\data.yaml",
+        "num_classes": 9
+    },
+    "phase2": {
+        "teacher_weights": "semi_supervised_output\\teacher_model\\teacher\\weights\\best.pt",
+        "metrics": {
+            "mAP50": 0.004278182822709703,
+            "mAP50-95": 0.0014161362100408306,
+            "precision": 
