@@ -1,18 +1,10 @@
 ﻿# Python
 __pycache__/
 *.py[cod]
-*.pyo
 .venv/
-.env
 venv/
 *.egg-info/
 dist/
 build/
-
-# Data / model binaries (we track .pt with LFS; keep them out of history if needed)
 *.pt
 *.pth
-
-# OS
-Thumbs.db
-.DS_Store
