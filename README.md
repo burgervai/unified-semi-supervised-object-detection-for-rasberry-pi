@@ -75,7 +75,6 @@ Notable artifacts in this repo (already included):
 - `final_model/final/weights/best.pt` — example final weights.
 - `teacher_model/teacher/weights/best.pt` — teacher weights.
 - `yolo11n.pt` — an additional model checkpoint present in the workspace.
-- `requirment.txt` — Python dependency list (note: filename spelled `requirment.txt`). Consider renaming to `requirements.txt` for standard tooling.
 
 ## Quick start (short)
 
