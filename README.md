@@ -10,8 +10,6 @@
 
 Production-ready, label-efficient object detection: a complete toolkit to train a teacher model, generate pseudo-labels on unlabeled images, train a student model on combined data, and export optimized models for edge deployment (TFLite / ONNX / NCNN).
 
-This repository is targeted at ML engineers, product teams, and researchers who need a pragmatic, reproducible baseline for semi-supervised object detection with export-ready artifacts.
-
 ## Table of contents
 - [Why this project](#why-this-project)
 - [Why semi-supervised detection](#why-semi-supervised-detection)
